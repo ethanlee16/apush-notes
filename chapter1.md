@@ -1,4 +1,4 @@
-#Chapter 1 - *A New World*
+# Chapter 1 - *A New World*
 
 Ethan Lee, Period 1, AP US History
 
@@ -118,111 +118,77 @@ Ethan Lee, Period 1, AP US History
 3. Hernan Cortes of 1519 became the first of the explorers to find a major civilization when he landed on Tenochtitlan, which was the heart of the wealthy and large Aztec empire.
 4. Because the Aztecs were warriors, a conflict ensued with the Spanish, and Cortes ended up conquering Tenochtitlan with their guns, iron weapons, and the spread of disease that wiped out much of Aztec society.
 
-**The Demographic Disaster:** f
+**The Demographic Disaster:** The exposure of Europeans to the Native Americans caused one of the largest amount of deaths in human history, due to the new diseases they were exposed to, the superiority of European technology, and their enslavement.
 
 1. The Columbian exchange, referring to the transfer of goods, people, and diseases between the Old World and the New World, introuced crops like corn, tomatoes, and potatoes to Europe and wheat, rice, and horses to the New World.
-2. Because of the arrival of the Europeans, the American Indian population drastically declined - by some estimates, up to 4500% of the population was lost.
-3. f
-4. f
+2. Because of the arrival of the Europeans, the American Indian population drastically declined - by some estimates, over 85 million people died due to disease or other causes.
+3. Part of the cause for this population decline included coming into contact with diseases that the Indians were not immune to as well as wars and enslavement.
+4. This tragic decrease of population along with technology is what allowed the Europeans to conquer the Americas quickly and effectively.
 
 
-**The Spanish Empire:** f
+**The Spanish Empire:** The expanse of the Spanish empire included many resource-rich areas and stretched across Europe to the Americas, allowing for accessible trade and wealth production.
 
-1. f
-2. f
+1. Spain created an expansive empire by the time they had created successful colonies in the Americas, which allowed their trade to be more mobilized than ever as Spanish ships carried gold and silver across oceans for trade.
+2. At its height, the Spanish Empire controlled many wealthy parts of the world in the Americas and in Europe as well as the natural resources that they contained.
 
-**Governing Spanish America:** f
+**Governing Spanish America:** Spanish American government was created to be a very robust system that replaced the destructive behavior of the conquistadores, made up of appointed bureaucrats and lawyers that organized the colony.
 
-1. f
-2. f
+1. The system of government that Spain instituted in their new colonies to replace the destructive conquistadores was made up of lawyers and bureaucrats that became stable and effective.
+2. The officials that made up the Spanish American governance were appointed by the crown of Spain instead of being elected by the people they governed.
 
-**Colonists in Spanish America:** f
+**Colonists in Spanish America:** Spanish American colonies were generally large and thus did not require African slaves for farm and mining labor, but continued to exploit the native populations in forced labor and prevented those who were not Spanish from settling there.
 
-1. f
-2. f
+1. Spanish American farms and plantations did not require the import of African slaves because of its relatively large population; Spanish landlords instead forced the Native Americans to work in mines and _haciendas_, or large commercial farms.
+2. The Spanish American government prevented non-Spaniards from immigrating to its colonies, and many of the people that were allowed to settle in the Spanish colonies were government officials, priests, or skilled workers.
 
-**Colonists and Indians:** f
+**Colonists and Indians:** Colonists made up only a small part of the population of their colonies, and Indians were eventually given certain rights and assimilated with the Spanish to create a mixed culture.
 
-1. f
-2. f
+1. The population of Spanish colonists never grew to be more than a small percentage of the total population in the colonies, which largely consisted of Native Americans that were granted some rights in the colonial society and could be assimilated. 
+2. The Spanish government mandated that the wives of immigrants to the Spanish colonies were to move with them, and the single men of the colonies were required to marry. Because there were fewer Spanish women, Native Americans would often be married with Spaniards, which created the _mestizo_ population of mixed cultures.
 
-**Justifications for Conquest:** f
+**Justifications for Conquest:** The Europeans used both the thought that they were culturally superior as well as their religious agenda to evangelize as justification for their conquest of the Americas.
 
-1. f
-2. f
+1. Europeans in their justification for claiming the lands of the Native Americans, were confident in their own cultural superiority with nay other Native American population that approached them.
+2. The Europeans have an extensive history of violent actions to advance their colonization efforts, but their missionary works for Catholicism were also prevalent in their colonization efforts of the Americas.
 
-**Spreading the Faith:** f
+**Spreading the Faith:** The spread of Catholicism became a primary goal for the Spanish as the pope made it mandatory for colonization, and many missionaries came to America to convert the Indians as a result.
 
-1. f
-2. f
+1. The pope reinforced the religious purpose for the explorations by making the spread of Catholicism a prerequisite for colonization, at a time when the church was split by reformer Martin Luther who accused the Church of corruption.
+2. Responding to the call of the pope, Spain expanded its missionary attempts to convert the Indians and claimed that their mission was to save the Indians from heathenism or Protestantism.
 
-**Piety and Profit:** f
+**Piety and Profit:** The Native Americans were both evangelized to and exploited as the Spanish attempted to both convert them to Catholicism and forced them to work in their mines to extract gold and silver.
 
-1. f
-2. f
+1. In addition to being a primary target for missionaries, the Native Americans were seen as a beneficial work source for the Europeans in their gold and silver mines, which the Spanish justified by claiming that they were providing them truer freedom through organizing them.
+2. Despite the harsh conditions of the forced labor that the Native Americans were subject to that caused many deaths, the Spanish could see no incompatibility between growing in wealth through the exploitation of the natives and attempting to better them through Catholicism.
 
-**Las Casas's Complaint:** f
+**Las Casas's Complaint:** Protest against the treatment of the Indians began with the outlawing of Indian slavery by Pope Paul III and continued with Priest Bartolome de Las Casas, who wrote a scathing account of their brutal treatment in the Americas.
 
-1. f
-2. f
+1. A decade and a half after the outlawing of Indian enslavement, a Dominican priest named Bartolome de Las Casas released a written account of the condition of the Indians, which contained criticism for the Spanish treatment of the natives.
+2. Las Casas, in _A Very Brief Account of the Destruction of the Indies_, describes what he calls a "massacre" of the Indians, finding their labor circumstances and treatment to be inhumane.
 
-**Reforming the Empire:** f
+**Reforming the Empire:** Reforms were passed to somewhat improve the condition of the Indians, including the New Laws of 1542 that forbade their slavery and allowed them to receive wages for work, but Spain remained what European nations called "The Black Legend," for their continued cruel treatment of the natives.
 
-1. f
-2. f
+1. Las Casas believed that the oppression of the Spanish destroyed the credibility of Catholic missionary efforts, and largely due to his work, Spain passed the New Laws of 1542 that prevented any Indians from Spanish slavery and allowed them to receive wages.
+2. The Spanish among the other European nations became known as the Black Legend for the gross descriptions of abusive behavior as written by Las Casas, but they remained this way, using forced wage labor and African slave labor to develop their land.
 
-**Exploring North America:** f
+**Exploring North America:** The Spanish, in an effort to look for another civilization with gold, explored the North American continent into modern-day United States, venturing into the Great Plains, Oregon, and the Southwest without finding the gold they sought.
 
-1. f
-2. f
+1. From Mexico and Peru, the Spanish continued to explore into modern-day United States in search of a new civilization with gold, entering first through Florida in 1513.
+2. Spanish exploration continued by sea into modern-day Oregon and by land into the Southwest and Gulf regions, looking for but failing to find a resource-rich area like Mexico or Peru.
 
-**Spanish Florida:** f
+**Spanish Florida:** The Spanish created a colony in Florida primarily for military purposes and preventing French colonization, but it failed to gain a significant amount of settlers.
 
-1. f
-2. f
+1. Spain created their first colony that was in modern-day United States at Florida, where they hoped to create a military base to prevent French explorers from beginning to colonize.
+2. The military base in Miami soon was one of many stretching into South Carolina while religious missionaries attempted to convert local Indians to Christianity.
 
-**Spain in the Southwest:** f
+**Spain in the Southwest:** Spain colonized the Southwest almost half a century after failing to find gold in the area, but upon settling permanently, they came into conflict with the local Indians.
 
-1. f
-2. f
+1. The Southwest was not colonized by Spain until after the failed expeditions to find gold in the area, when they built a permanent colony there and Spanish soldiers were killed by local Indians from present-day New Mexico.
+2. In an act of revenge, the leader of the expedition, Juan de Onate, laid siege to the city of the Indians and killed hundreds of its people.
 
-**The Pueblo Revolt:** f
+**The Pueblo Revolt:** As a result of increased Spanish oppression on the religious practices of the Pueblo Indians, the Indians revolted and successfully drove the Spanish out of the area.
 
-1. f
-2. f
-3. f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. In New Mexico in the 1680's, relationships between a small, controlling mestizo minority and the Pueblo Indians began crumbling as the Spanish sought to stamp out their traditional religion by burning their sacred objects and idols.
+2. Although the Pueblo Indians were a divided people, an Indian named Popé led a united uprising against the Spanish in an attempt to drive them from their colony and restore their cultural traditions.
+3. After secret meetings within Pueblo communities, Popé coordinated an uprising of 2,000 that killed hundreds of colonists and missionaries and destroyed Spanish buildings, forcing the Spanish to abandon the area.
 
